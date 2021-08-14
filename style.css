@@ -191,7 +191,7 @@ header .fa-bars {
     cursor: pointer;
 }
 
-.container .controls .dots:hover {
+.container .controls .dots:hover, .container .controls .active{
     background: var(--black);
 }
 
